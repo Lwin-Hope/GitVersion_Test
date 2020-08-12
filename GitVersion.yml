@@ -1,7 +1,9 @@
-next-version: 1.0.0
+next-version: 1.0
+mode: Mainline
 branches:
   develop:
     regex: develop$
-    mode: ContinuousDeployment 
-    increment: Minor    
+    is-mainline: true
+    increment: Minor
+    
 
