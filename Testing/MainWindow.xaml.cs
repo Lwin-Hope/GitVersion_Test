@@ -78,6 +78,8 @@ namespace Testing
            
 
             this.DataContext = this;
+
+
             
         }
 
